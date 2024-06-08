@@ -1,8 +1,8 @@
 # Books Recommendation Systems
-<<<<--------------------------+++++++++++++++++++++++++++++------------------------------->>>>
+<<<<---------------------------+++++++++++++++++++++++++++++------------------------------->>>>
 <<------>> <code>Capstone Project MSIB Skilvul Batch 7 IBM Skillsbuild for AI & Cybersecurity</code> <<--------->>
 <<<<------------+++++------------->>>> <code>Created by : Team 23</code> <<<<------------+++++------------>>>>
-<<<<--------------------------+++++++++++++++++++++++++++++--------------------------->>>>
+<<<<---------------------------+++++++++++++++++++++++++++++------------------------------->>>>
 # Description
 Sistem rekomendasi buku berbasis machine learning dengan rating adalah aplikasi yang dirancang untuk memberikan saran buku kepada pengguna berdasarkan preferensi dan riwayat pembacaan mereka. Sistem ini memanfaatkan algoritma machine learning untuk menganalisis data pengguna, termasuk buku yang telah mereka baca dan nilai yang mereka berikan. Dengan menggunakan data ini, sistem dapat memprediksi buku yang mungkin disukai oleh pengguna di masa depan. Pendekatan ini meningkatkan pengalaman pengguna dengan menyediakan rekomendasi yang lebih akurat dan personal, sehingga membantu mereka menemukan buku baru yang sesuai dengan minat mereka. Sistem rekomendasi ini biasanya memanfaatkan teknik seperti collaborative filtering, content-based filtering, dan hybrid methods untuk menghasilkan rekomendasi yang efektif dan relevan.
 
